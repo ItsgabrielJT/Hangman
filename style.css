@@ -1,0 +1,24 @@
+body {
+  background: #ff9500;
+}
+
+.main-app {
+    margin: 0 auto;
+  background: #dddddd;
+  width: 900px;
+  height: 900px;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.image {
+    display:inline-block; width: 500px; background:#fff;
+}
+
+.header {
+    float:right; display:inline; vertical-align:top;
+}
+
+.controls {
+    display:inline-block;
+}
